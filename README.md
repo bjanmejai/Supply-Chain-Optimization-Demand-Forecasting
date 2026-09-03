@@ -23,8 +23,13 @@ High-dimensional nature makes it realistic for job discussions with analytics/su
 Dataset Download Link:
 https://www.kaggle.com/datasets/ziya07/high-dimensional-supply-chain-inventory-dataset
 Tech Stack
+
+
 ## 📄 Dashboard Report (No setup required)
 👉 [Click here to view the full project report](https://bjanmejai.github.io/Supply-Chain-Optimization-Demand-Forecasting/FMCG_Dashboard_Report.pdf)
+
+
+
 Language: Python
 Forecasting: Prophet (primary), with options for ARIMA/XGBoost
 Optimization: Heuristics + PuLP
